@@ -1,0 +1,29 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	padding: 20px;
+	background: #fafafa;
+}
+
+h1 {
+	font-weight: normal;
+	border-bottom: 1px solid #eee;
+}
+
+form label {
+	width: 10em;
+	display: inline-block;
+	margin-right: 5px;
+	color: #555;
+	font-weight: 500;
+	font-size: 12px;
+	text-align: right;
+}
+
+form input {
+	font-size: 12px;
+	width: 20em;
+	padding: 7px 7px;
+	border-radius: 2px;
+	border: 1px solid #ddd;
+}
